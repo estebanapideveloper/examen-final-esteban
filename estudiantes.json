@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan",
+    "apellido": "Pérez",
+    "aprobado": true,
+    "nota": 7.5,
+    "fecha": "2024-09-01"
+  },
+  {
+    "id": 2,
+    "nombre": "María",
+    "apellido": "López",
+    "aprobado": false,
+    "nota": 4.2,
+    "fecha": "2024-09-02"
+  },
+  {
+    "id": 3,
+    "nombre": "Carlos",
+    "apellido": "García",
+    "aprobado": true,
+    "nota": 8.9,
+    "fecha": "2024-09-03"
+  },
+  {
+    "id": 4,
+    "nombre": "Lucía",
+    "apellido": "Martínez",
+    "aprobado": true,
+    "nota": 9.1,
+    "fecha": "2024-09-04"
+  },
+  {
+    "id": 5,
+    "nombre": "Sofía",
+    "apellido": "Fernández",
+    "aprobado": false,
+    "nota": 5.0,
+    "fecha": "2024-09-05"
+  }
+]
